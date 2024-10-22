@@ -6,18 +6,18 @@
 
 # Estrutura Geral:
 
-### Container Principal: Envolvido por uma <div> que utiliza classes do Tailwind para definir a largura total, altura mínima e centralização dos elementos na tela.
+### Container Principal: Envolvido por uma div que utiliza classes do Tailwind para definir a largura total, altura mínima e centralização dos elementos na tela.
 
 # Seção Esquerda (Descrição do Facebook):
 
-### Um título (<h1>) grande que exibe o nome "Facebook", estilizado com uma fonte grande e negrito.
-### Um parágrafo (<p>) logo abaixo explicando o propósito do Facebook, também com um estilo bem espaçado. Seção Direita (Formulário de Login):
+### Um título <h1> grande que exibe o nome "Facebook", estilizado com uma fonte grande e negrito.
+### Um parágrafo <p> logo abaixo explicando o propósito do Facebook, também com um estilo bem espaçado. Seção Direita "Formulário de Login":
 
 # Um formulário com dois campos de entrada:
 
 ### Email ou telefone: Campo para o usuário inserir seu email ou número de telefone. Senha: Campo de entrada para a senha. Um botão para entrar, estilizado com um fundo de cor primária e um efeito de transição quando o cursor passa sobre ele.
 
-### Um link que oferece a opção de recuperar a senha ("Esqueceu a senha?").
+### Um link que oferece a opção de recuperar a senha "Esqueceu a senha?".
 
 ### Seção de Criação de Conta: Um botão destacado para "Criar nova conta", também com um estilo interativo.
 
