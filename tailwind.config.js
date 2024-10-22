@@ -9,7 +9,8 @@ export default {
       colors:{
        "primary": "#0866ff",
        "button": "#42b72a",
-       "background": "#f2f4f7"
+       "background": "#f2f4f7",
+       
       },
       translate:{
        "centralize": "-50% -50%"
