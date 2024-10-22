@@ -8,7 +8,7 @@
 
 ### Container Principal: Envolvido por uma div que utiliza classes do Tailwind para definir a largura total, altura mínima e centralização dos elementos na tela.
 
-# Seção Esquerda (Descrição do Facebook):
+# Seção Esquerda Descrição do Facebook:
 
 ### Um título <h1> grande que exibe o nome "Facebook", estilizado com uma fonte grande e negrito.
 ### Um parágrafo <p> logo abaixo explicando o propósito do Facebook, também com um estilo bem espaçado. Seção Direita "Formulário de Login":
