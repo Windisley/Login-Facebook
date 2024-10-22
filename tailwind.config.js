@@ -16,6 +16,9 @@ export default {
       },
       borderWidth:{
         "onepix": "1px"
+      },
+      margin:{
+        "m-0auto": "0 auto"
       }
     },
   },
